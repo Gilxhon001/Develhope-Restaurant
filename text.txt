@@ -1,6 +1,6 @@
 - Develhope Restaurant
 - Type of Menu: Fish
 - Drinks:  Coca-Cola, Pepsi, Ice Tea, Soda, Bottled Water ...etc
-
+- First Course: Smoked Salmon
 
   
